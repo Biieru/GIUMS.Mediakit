@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: giums-mediakit
+    runtime: static
+    buildCommand: echo "Static media kit ready"
+    staticPublishPath: .
