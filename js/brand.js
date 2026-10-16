@@ -90,12 +90,10 @@ const I18N_PT = {
   'f.lang': 'Idiomas', 'f.langV': 'Português · Inglês',
 
   'n.eyebrow': 'Cocriações',
-  'n.2t': 'RPG de mesa &amp; jogos', 'n.2': 'Pensada para seu projeto: personagens, criaturas e cenários com consistência visual, prontos para publicar, atendendo a editoras, estúdios de jogos, criadores de TCG e projetos independentes da comunidade.',
-  'n.7t': 'Do briefing à arte final', 'n.7': 'Personagens autorais, criaturas e reference sheets completos, com diferentes ângulos, expressões, paleta de cores, detalhes de vestuário e itens.',
-  'n.8t': 'Artes para livros e jogos', 'n.8': 'Ilustrações que ajudam a contar a sua história: capas, páginas internas, cartas e artes de ambientação.',
-  'n.4t': 'Conteúdo para marcas', 'n.4': 'Conteúdo especializado em produtos e ferramentas para artistas, conectando marcas ao público.',
-  'n.5t': 'Reviews &amp; testes de produtos', 'n.5': 'Avaliações de ferramentas e materiais para arte digital e tradicional, incluindo mesas digitalizadoras, tablets, canetas digitais, softwares, tintas, pincéis e outros recursos artísticos, explorando qualidade, desempenho e experiência de uso.',
-  'n.6t': 'Conteúdo artístico &amp; demonstrações', 'n.6': 'Produção de ilustrações, tutoriais e demonstrações com produtos digitais e tradicionais, destacando suas aplicações criativas em conteúdos para divulgação.',
+  "n.originalTitle": "Desenvolvimento de Artes Originais",
+  "n.originalText": "Ilustrações que ajudam a contar a sua história: personagens, criaturas e cenários com coerência visual, prontos para publicar. Atendendo a editoras, estúdios de jogos, criadores de TCG e projetos independentes.",
+  "n.brandsTitle": "Cocriação com marcas",
+  "n.brandsText": "Conteúdos pensados para conectar a marca à comunidade criativa. Avaliações de ferramentas e materiais para artes digitais e tradicionais, produção de ilustrações, tutoriais e demonstrações, destacando suas aplicações em conteúdos branding.",
 
   'au.eyebrow': 'Audiência &amp; alcance',
   'au.followers': 'seguidores',
