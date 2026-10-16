@@ -454,3 +454,8 @@ span.fill { padding: 0 7px; font-size: 10px; }
 @media screen and (max-width: 620px) {
   .toolbar__actions { flex-wrap: wrap; gap: 6px; }
 }
+
+/* Two complementary areas, separated as in the media kit reference. */
+.fits__g { gap: 0; }
+.fits__g > div:first-child { padding-right: 24px; }
+.fits__g > div + div { border-left: 2px solid var(--red); padding-left: 24px; }

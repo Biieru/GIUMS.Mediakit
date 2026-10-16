@@ -89,7 +89,6 @@ const I18N_PT = {
   'a.p2': 'Atualmente vem trabalhando na plataforma Patreon com criação de comunidade e, ao mesmo tempo, desenvolvendo seu projeto autoral <b>YATHRA</b>, um concept artbook / livro cenário de RPG de alta fantasia capa-e-espada, com inclusão da cultura queer (LGBTQIAPN+) e dragões. Muitos dragões!',
   'f.lang': 'Idiomas', 'f.langV': 'Português · Inglês',
 
-  'n.eyebrow': 'Cocriações',
   "n.originalTitle": "Desenvolvimento de Artes Originais",
   "n.originalText": "Ilustrações que ajudam a contar a sua história: personagens, criaturas e cenários com coerência visual, prontos para publicar. Atendendo a editoras, estúdios de jogos, criadores de TCG e projetos independentes.",
   "n.brandsTitle": "Cocriação com marcas",

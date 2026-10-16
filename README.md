@@ -130,6 +130,17 @@ A disponibilização do código não implica autorização para reutilização c
 
 ## PowerPoint para download
 
-O botão de PowerPoint baixa `GIUMS-MediaKit-EN.pptx` ou `GIUMS-MediaKit-PT.pptx`, conforme o idioma selecionado. Cada apresentação tem 10 slides horizontais (16:9), com os slides internos editáveis e links de contato. A capa reproduz a abertura do site como imagem para preservar os degradês, a tipografia, as brasas e a moldura da arte.
+O botão de PowerPoint baixa `GIUMS-MediaKit-EN.pptx` ou `GIUMS-MediaKit-PT.pptx`, conforme o idioma selecionado.
 
-Os PowerPoints são arquivos independentes, assim como os PDFs: ao atualizar conteúdo ou números, atualize também as apresentações. A tipografia usa Georgia e Arial para compatibilidade com PowerPoint.
+Cada apresentação tem seis lâminas, nesta ordem:
+
+1. Capa
+2. Em resumo, apresentação da artista e os dois blocos de colaboração
+3. YATHRA
+4. Audiência, perfil do público e formatos
+5. Marcas, caso XP-Pen e como colaborar
+6. Contato e direitos de uso
+
+As lâminas reproduzem os trechos do site como imagens para preservar layout, tipografia, artes, gráficos e divisórias. O texto e os gráficos não são editáveis individualmente. Os links continuam clicáveis. As proporções originais são preservadas, com margens nos slides horizontais quando necessário.
+
+Os PowerPoints e PDFs são arquivos independentes: ao atualizar o conteúdo do site, atualize também os arquivos de download.
