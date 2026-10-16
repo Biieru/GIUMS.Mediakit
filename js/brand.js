@@ -82,7 +82,6 @@ const I18N_PT = {
 
   'y.eyebrow': 'Um universo original',
   'y.lead': 'Projeto de lore e worldbuilding para RPG de mesa, em construção há três anos: um mundo draconiano de conflitos, relações LGBTQIAPN+ e artefatos fantásticos.',
-  'y.sub': 'Apoiadores entram por tiers no Patreon, com itens físicos do universo e sketches originais dos seus próprios OCs.',
 
   'a.eyebrow': 'Quem é',
   'a.p1': 'Artista visual e ilustradora com foco em design de personagens há mais de 15 anos, tanto nacional quanto internacionalmente, tendo enorme influência da cultura geek, alta fantasia, TCG e principalmente RPG.',
