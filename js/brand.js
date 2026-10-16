@@ -86,7 +86,7 @@ const I18N_PT = {
 
   'a.eyebrow': 'Quem é',
   'a.p1': 'Artista visual e ilustradora com foco em design de personagens há mais de 15 anos, tanto nacional quanto internacionalmente, tendo enorme influência da cultura geek, alta fantasia, TCG e principalmente RPG.',
-  'a.p2': 'Atualmente vem trabalhando na plataforma Patreon com criação de comunidade e, ao mesmo tempo, desenvolvendo seu projeto autoral <b>YATHRA</b>, um concept artbook / livro cenário de RPG de alta fantasia capa-e-espada, com inclusão da cultura queer (LGBTQIAPN+) e dragões. Muitos dragões!',
+  'a.p2': 'Atualmente vem trabalhando na plataforma Patreon com criação de comunidade e, ao mesmo tempo, desenvolvendo seu projeto autoral <b>YATHRA</b>, cenário de RPG de alta fantasia, com inclusão da cultura queer (LGBTQIAPN+) e dragões, muitos dragões!',
   'f.lang': 'Idiomas', 'f.langV': 'Português · Inglês',
 
   "n.originalTitle": "Desenvolvimento de Artes Originais",
