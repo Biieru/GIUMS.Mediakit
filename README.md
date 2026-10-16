@@ -130,6 +130,6 @@ A disponibilização do código não implica autorização para reutilização c
 
 ## PowerPoint para download
 
-O botão de PowerPoint baixa `GIUMS-MediaKit-EN.pptx` ou `GIUMS-MediaKit-PT.pptx`, conforme o idioma selecionado. Cada apresentação tem 10 slides horizontais (16:9), com textos e imagens editáveis e links de contato.
+O botão de PowerPoint baixa `GIUMS-MediaKit-EN.pptx` ou `GIUMS-MediaKit-PT.pptx`, conforme o idioma selecionado. Cada apresentação tem 10 slides horizontais (16:9), com os slides internos editáveis e links de contato. A capa reproduz a abertura do site como imagem para preservar os degradês, a tipografia, as brasas e a moldura da arte.
 
 Os PowerPoints são arquivos independentes, assim como os PDFs: ao atualizar conteúdo ou números, atualize também as apresentações. A tipografia usa Georgia e Arial para compatibilidade com PowerPoint.
