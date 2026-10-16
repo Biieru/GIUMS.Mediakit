@@ -250,6 +250,9 @@ function setLang(l) {
   const download = document.querySelector('.pdf-download');
   download.href = `GIUMS-MediaKit-${LANG.toUpperCase()}.pdf`;
   download.textContent = `${pt() ? 'Baixar PDF' : 'Download PDF'} · ${LANG.toUpperCase()}`;
+  const slidesDownload = document.querySelector('.ppt-download');
+  slidesDownload.href = `GIUMS-MediaKit-${LANG.toUpperCase()}.pptx`;
+  slidesDownload.textContent = `${pt() ? 'Baixar PowerPoint' : 'Download PowerPoint'} · ${LANG.toUpperCase()}`;
   document.querySelector('.print-button').textContent = pt() ? 'Imprimir' : 'Print';
   document.title = pt() ? 'Giums — Media kit · Marcas e parcerias 2026' : 'Giums — Media kit · Brands & partnerships 2026';
   const u = new URL(location.href); u.searchParams.set('lang', l); history.replaceState(null, '', u);

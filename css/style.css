@@ -448,5 +448,9 @@ span.fill { padding: 0 7px; font-size: 10px; }
 /* Website controls; excluded from print by the existing toolbar rule. */
 .toolbar { justify-content: space-between; flex-wrap: wrap; }
 .toolbar__actions { display: flex; align-items: center; gap: 12px; }
-.pdf-download, .print-button { padding: 6px 10px; border: 1px solid var(--line); background: var(--paper); color: var(--ink); font: 600 11px/1.3 var(--f-body); cursor: pointer; }
-.langsw button:focus-visible, .pdf-download:focus-visible, .print-button:focus-visible { outline: 2px solid var(--red); outline-offset: 3px; }
+.pdf-download, .ppt-download, .print-button { padding: 6px 10px; border: 1px solid var(--line); background: var(--paper); color: var(--ink); font: 600 11px/1.3 var(--f-body); cursor: pointer; }
+.langsw button:focus-visible, .pdf-download:focus-visible, .ppt-download:focus-visible, .print-button:focus-visible { outline: 2px solid var(--red); outline-offset: 3px; }
+
+@media screen and (max-width: 620px) {
+  .toolbar__actions { flex-wrap: wrap; gap: 6px; }
+}

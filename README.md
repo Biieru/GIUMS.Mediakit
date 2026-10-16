@@ -127,3 +127,9 @@ A disponibilização do código não implica autorização para reutilização c
 [GitHub](https://github.com/Biieru)
 
 **HTML · CSS · JavaScript · i18n · Print CSS · UI/UX**
+
+## PowerPoint para download
+
+O botão de PowerPoint baixa `GIUMS-MediaKit-EN.pptx` ou `GIUMS-MediaKit-PT.pptx`, conforme o idioma selecionado. Cada apresentação tem 10 slides horizontais (16:9), com textos e imagens editáveis e links de contato.
+
+Os PowerPoints são arquivos independentes, assim como os PDFs: ao atualizar conteúdo ou números, atualize também as apresentações. A tipografia usa Georgia e Arial para compatibilidade com PowerPoint.
