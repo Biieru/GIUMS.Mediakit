@@ -6,7 +6,7 @@
 
 const KIT = {
   year: 2026,
-  email: 'giumsart@gmail.com',        // e-mail de contato (aparece em Contato e em "Como começar")
+  email: 'giumsart@gmail.com',        // e-mail de contato em "Vamos Criar Juntos"
   links: {   // text = o que aparece no PDF · url = para onde o clique leva
     site:      { text: 'giums.onrender.com',   url: 'https://giums.onrender.com' },   // troque quando houver domínio próprio
     instagram: { text: '@giums',               url: 'https://www.instagram.com/giums/' },
@@ -25,7 +25,7 @@ const KIT = {
    Instagram: seguidores 16.4K · taxa de engajamento média 5.08% · média de 835 curtidas e 31 comentários por post.
    Patreon: 86 seguidores, 17 deles assinantes pagos. Use null para deixar a caixa de preenchimento. */
 const AUD = {
-  instagram: { followers: '16.4K', engagement: '5.08%', likes: '835', comments: '31', views: '37.9K', viewers: '9,090', net: '+116' },
+  instagram: { followers: '16.4K', engagement: '5.08%', likes: '835', comments: '31', views: '37.9K', viewers: '9,090' },
   patreon:   { followers: '86',    paid: '17' }
 };
 
@@ -54,9 +54,9 @@ const CASE = {
     { label: 'YouTube',   url: 'https://youtu.be/1wZL_RG2Ma4',                text: 'youtu.be/1wZL_RG2Ma4' },
     { label: 'Instagram', url: 'https://www.instagram.com/reels/CQjiu2mBFcf/', text: 'instagram.com/reels/CQjiu2mBFcf' }
   ],
-  role: {
-    en: 'Product tester, reviewer and content creator. XP-Pen Brasil sent the tablet and she sent them her feedback.',
-    pt: 'Testadora de produto, resenhista e criadora de conteúdo. A XP-Pen Brasil enviou o tablet e ela mandou suas considerações à marca.' },
+  briefing: {
+    en: 'XP-Pen Brasil sent the Deco 03 to Giums for testing and evaluation. The artist created a review, promoted the giveaway and shared her feedback with the brand.',
+    pt: 'A XP-Pen Brasil enviou a Deco 03 para Giums testar e avaliar. A artista produziu uma resenha, divulgou o sorteio e compartilhou suas impressões com a marca.' },
   period: { en: 'June – July 2021', pt: 'Junho – julho de 2021' },
   deliverables: {
     en: 'Instagram reel announcing the review and giveaway; YouTube video (9:53) with the XP-Pen Deco 03 review and a Yone fan art sketch; tablet giveaway with exclusive art; discount code for her audience.',
@@ -88,7 +88,7 @@ const I18N_PT = {
   'a.eyebrow': 'Quem é',
   'a.p1': 'Artista visual e ilustradora com foco em design de personagens há mais de 15 anos, tanto nacional quanto internacionalmente, tendo enorme influência da cultura geek, alta fantasia, TCG e principalmente RPG.',
   'a.p2': 'Atualmente vem trabalhando na plataforma Patreon com criação de comunidade e, ao mesmo tempo, desenvolvendo seu projeto autoral <b>YATHRA</b>, cenário de RPG de alta fantasia, com inclusão da cultura queer (LGBTQIAPN+) e dragões, muitos dragões!',
-  'f.lang': 'Idiomas', 'f.langV': 'Português · Inglês',
+  'f.social': 'Redes Sociais',
 
   "n.originalTitle": "Desenvolvimento de Artes Originais",
   "n.originalText": "Ilustrações que ajudam a contar a sua história: personagens, criaturas e cenários com coerência visual, prontos para publicar. Atendendo a editoras, estúdios de jogos, criadores de TCG e projetos independentes.",
@@ -105,24 +105,16 @@ const I18N_PT = {
   'au.asof': 'Números de out/2026.',
   'd.eyebrow': 'Perfil do público',
   'd.age': 'Faixa etária', 'd.gender': 'Gênero', 'd.places': 'Principais cidades',
-  'au.views': 'visualizações em 30 dias', 'au.viewers': 'contas que viram o conteúdo', 'au.net': 'seguidores líquidos em 30 dias',
+  'au.views': 'visualizações em 30 dias', 'au.viewers': 'contas que viram o conteúdo',
   'd.src': 'Fonte',
-
-  'c2.eyebrow': 'Formatos',
-  'c2.1': 'Stories (Instagram)',
-  'c2.3': 'Reels (Instagram)',
-  'c2.4': 'Carrossel (Instagram)',
-  'c2.6': 'Twitch ao vivo e VODs',
-  'c2.7': 'YouTube (vídeos de longa duração)',
 
   'co.eyebrow': 'Dentro da comunidade',
   'co.p': 'Apoiadores recebem wallpapers mensais, lore do mundo, sketches, adesivos e prints exclusivos, WIPs, GIFs, packs de brushes e acesso à comunidade no Discord.',
 
-  's3.eyebrow': 'Parcerias',
   's3.title': 'Marcas com quem já trabalhou',
   'cs.eyebrow': 'Caso',
   'cs.title': 'XP-Pen · resenha da Deco 03 e sorteio',
-  'cs.role': 'Papel', 'cs.period': 'Período', 'cs.deliv': 'Entregas', 'cs.res': 'Resultados',
+  'cs.briefing': 'Briefing', 'cs.period': 'Período', 'cs.deliv': 'Entregas', 'cs.res': 'Resultados',
   'cs.links': 'Links', 'cs.frame': 'Frame do vídeo no YouTube',
 
   'w.eyebrow': 'Trabalhe com a Giums',
@@ -130,13 +122,8 @@ const I18N_PT = {
   'w.f1t': 'Campanhas ilustradas', 'w.f1': 'Ilustrações de teste para produtos, tradicionais ou digitais.',
   'w.f2t': 'Resenhas &amp; sorteios', 'w.f2': 'Resenha de produto e sorteio para a comunidade, como na parceria com a XP-Pen.',
   'w.f3t': 'Conteúdo de processo', 'w.f3': 'Sketches, timelapses e making-of para Instagram e YouTube.',
-  'w.start': 'Como começar',
-  'w.startT': 'Envie um breve com objetivo, entregas, prazo e orçamento para o e-mail abaixo.',
-  'u.eyebrow': 'Direitos de uso',
-  'u.1': 'Uso comercial e reupload exigem permissão da artista; os termos são combinados por projeto.',
-  'u.2': 'Usar a arte — inclusive em OCs parecidos — não é permitido.',
-  'c.eyebrow': 'Contato',
-  'c.email': 'E-mail', 'c.emailFill': 'e-mail para marcas', 'c.site': 'Portfólio'
+  'w.start': 'Vamos Criar Juntos',
+  'c.emailFill': 'e-mail para marcas'
 };
 
 /* ---------- idioma ---------- */
@@ -210,7 +197,7 @@ function renderCase() {
 function renderLinks() {
   document.querySelectorAll('[data-k]').forEach(el => {
     const l = KIT.links[el.dataset.k];
-    el.innerHTML = `<a href="${l.url}">${l.text}</a>`;
+    el.innerHTML = `<a href="${l.url}">${el.dataset.display || l.text}</a>`;
   });
   document.querySelectorAll('[data-kit]').forEach(el => { el.textContent = KIT[el.dataset.kit]; });
   if (KIT.email) document.querySelectorAll('.js-email').forEach(el => {

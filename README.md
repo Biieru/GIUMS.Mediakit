@@ -141,6 +141,6 @@ Cada apresentação tem seis lâminas, nesta ordem:
 5. Marca XP-Pen e o caso da Deco 03
 6. Trabalhe com a Giums e Vamos Criar Juntos
 
-As apresentações usam as artes originais do media kit e texto, números e barras editáveis no PowerPoint. Os links de redes sociais, Patreon, estudo de caso e e-mail são clicáveis. Os ajustes de conteúdo descritos acima pertencem apenas aos slides; o site e os PDFs mantêm o conteúdo próprio.
+As apresentações usam as artes originais do media kit e texto, números e barras editáveis no PowerPoint. Os links de redes sociais, Patreon, estudo de caso e e-mail são clicáveis. O site acompanha os textos e a organização atuais da apresentação; os PDFs ainda são arquivos independentes.
 
 Os PowerPoints e PDFs são arquivos independentes: ao atualizar o conteúdo do site, atualize também os arquivos de download.
