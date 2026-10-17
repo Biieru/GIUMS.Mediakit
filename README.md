@@ -135,12 +135,12 @@ O botão de PowerPoint baixa `GIUMS-MediaKit-EN.pptx` ou `GIUMS-MediaKit-PT.pptx
 Cada apresentação tem seis lâminas, nesta ordem:
 
 1. Capa
-2. Em resumo, apresentação da artista e os dois blocos de colaboração
+2. Quem é Giums, com foto, apresentação e links para as redes sociais
 3. YATHRA
-4. Audiência, perfil do público e formatos
-5. Marcas, caso XP-Pen e como colaborar
-6. Contato e direitos de uso
+4. Audiência, alcance e perfil do público
+5. Marca XP-Pen e o caso da Deco 03
+6. Trabalhe com a Giums e Vamos Criar Juntos
 
-As lâminas reproduzem os trechos do site como imagens para preservar layout, tipografia, artes, gráficos e divisórias. O texto e os gráficos não são editáveis individualmente. Os links continuam clicáveis. As proporções originais são preservadas, com margens nos slides horizontais quando necessário.
+As apresentações usam as artes originais do media kit e texto, números e barras editáveis no PowerPoint. Os links de redes sociais, Patreon, estudo de caso e e-mail são clicáveis. Os ajustes de conteúdo descritos acima pertencem apenas aos slides; o site e os PDFs mantêm o conteúdo próprio.
 
 Os PowerPoints e PDFs são arquivos independentes: ao atualizar o conteúdo do site, atualize também os arquivos de download.
